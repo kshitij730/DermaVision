@@ -69,5 +69,5 @@ This project is licensed under the MIT License.
 - Streamlit is used for creating the web interface.
 
 ## Author
-Your Name – [Your GitHub](https://github.com/kshitij730)
+Kshitij Sharma – [Your GitHub](https://github.com/kshitij730)
 
